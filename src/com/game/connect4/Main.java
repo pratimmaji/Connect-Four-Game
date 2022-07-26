@@ -1,4 +1,4 @@
-package com.internshala.connect4;
+package com.game.connect4;
 
 import javafx.application.Application;
 import javafx.application.Platform;
